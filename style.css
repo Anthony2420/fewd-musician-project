@@ -33,6 +33,19 @@ details summary {
   font-size: 1.2em;
   cursor: pointer;
   text-decoration: underline;
+}button {
+  background-color: #036b45;
+  color: #fff;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  cursor: pointer;
+}sbutton:hover {
+  background-color: #024d33;
+} wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2em;
 }
 
 
