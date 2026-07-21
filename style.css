@@ -4,4 +4,17 @@
   background-color: #150b6f;
   border: 1px solid #036b45;
   border-radius: 20px;
+  div {
+    color: #fff;
+  }
+  div p {
+    font-size: 1.2em;
+  }
+
+}
+details summary {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #036b45;
+  cursor: pointer;
 }
